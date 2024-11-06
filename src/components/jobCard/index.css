@@ -1,0 +1,8 @@
+.profile-image{
+  height: 30px;
+  width: 30px;
+}
+.card{
+  margin-right: 100px;
+  display: flex;
+}
