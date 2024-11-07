@@ -1,3 +1,3 @@
-const baseUrl = "http://localhost:3000";
+const baseUrl = "https://indeed-lone-backend-2.vercel.app";
 
 export { baseUrl };

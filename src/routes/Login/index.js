@@ -19,6 +19,7 @@ const Login = () => {
         Accept: "application/json",
         "Content-Type": "application/json",
       },
+      withCredentials: true, 
     })
       .then((res) => res.json())
       .then((res) => {
